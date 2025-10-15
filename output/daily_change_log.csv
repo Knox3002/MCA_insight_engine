@@ -1,0 +1,3 @@
+CIN,Change_Type,Field_Changed,Old_Value,New_Value,Date
+U12345DL01,Field Update,STATUS,Active,Strike Off,2025-10-15
+U12345DL01,Field Update,AUTHORIZED_CAPITAL,900000,900001,2025-10-15

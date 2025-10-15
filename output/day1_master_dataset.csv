@@ -1,0 +1,26 @@
+CIN,COMPANY_NAME,COMPANY_CLASS,DATE_OF_INCORPORATION,AUTHORIZED_CAPITAL,PAID_UP_CAPITAL,STATUS,NIC_CODE,REGISTERED_OFFICE_ADDRESS,ROC_CODE,STATE
+U12345DL01,Kappa Pvt Ltd,Private Limited,2012-04-25,900000,800000,Active,62011,Some Address,DL,Delhi
+U12345DL02,Lambda Pvt Ltd,Private Limited,2015-07-13,1100000,1000000,Active,62012,Some Address,DL,Delhi
+U12345DL03,Mu Ltd,Public Limited,2017-09-30,2200000,1800000,Strike Off,62021,Some Address,DL,Delhi
+U12345DL04,Nu Pvt Ltd,Private Limited,2016-01-05,600000,500000,Active,62013,Some Address,DL,Delhi
+U12345DL05,Xi Ltd,Public Limited,2019-03-22,1400000,1200000,Active,62022,Some Address,DL,Delhi
+U12345GJ01,Delta Pvt Ltd,Private Limited,2011-03-15,1200000,1000000,Active,62011,Some Address,GJ,Gujarat
+U12345GJ02,Epsilon Pvt Ltd,Private Limited,2013-08-22,800000,800000,Active,62012,Some Address,GJ,Gujarat
+U12345GJ03,Zeta Ltd,Public Limited,2016-11-05,2500000,2000000,Strike Off,62021,Some Address,GJ,Gujarat
+U12345GJ04,Theta Pvt Ltd,Private Limited,2014-02-10,500000,400000,Active,62013,Some Address,GJ,Gujarat
+U12345GJ05,Iota Ltd,Public Limited,2018-06-18,1500000,1200000,Active,62022,Some Address,GJ,Gujarat
+U12345KA01,Upsilon Pvt Ltd,Private Limited,2011-01-10,1100000,950000,Active,62011,Some Address,KA,Karnatak
+U12345KA02,Phi Pvt Ltd,Private Limited,2014-03-22,850000,800000,Active,62012,Some Address,KA,Karnatak
+U12345KA03,Chi Ltd,Public Limited,2016-06-15,2200000,1800000,Strike Off,62021,Some Address,KA,Karnatak
+U12345KA04,Psi Pvt Ltd,Private Limited,2015-09-05,700000,600000,Active,62013,Some Address,KA,Karnatak
+U12345KA05,Omega Ltd,Public Limited,2018-11-30,1600000,1400000,Active,62022,Some Address,KA,Karnatak
+U12345MH01,Alpha Pvt Ltd,Private Limited,2010-05-01,1000000,800000,Active,62011,Some Address,MH,Maharashtra
+U12345MH02,Beta Pvt Ltd,Private Limited,2012-07-12,500000,500000,Active,62012,Some Address,MH,Maharashtra
+U12345MH03,Gamma Ltd,Public Limited,2015-09-20,2000000,1500000,Strike Off,62021,Some Address,MH,Maharashtra
+U12345MH04,Delta Pvt Ltd,Private Limited,2013-11-10,750000,700000,Active,62013,Some Address,MH,Maharashtra
+U12345MH05,Epsilon Ltd,Public Limited,2018-01-25,1500000,1200000,Active,62022,Some Address,MH,Maharashtra
+U12345TN01,Omicron Pvt Ltd,Private Limited,2010-05-12,1000000,900000,Active,62011,Some Address,TN,Tamil_Nadu
+U12345TN02,Pi Pvt Ltd,Private Limited,2013-09-18,950000,950000,Active,62012,Some Address,TN,Tamil_Nadu
+U12345TN03,Rho Ltd,Public Limited,2015-12-02,2100000,1700000,Strike Off,62021,Some Address,TN,Tamil_Nadu
+U12345TN04,Sigma Pvt Ltd,Private Limited,2014-06-20,700000,600000,Active,62013,Some Address,TN,Tamil_Nadu
+U12345TN05,Tau Ltd,Public Limited,2018-08-30,1600000,1400000,Active,62022,Some Address,TN,Tamil_Nadu
