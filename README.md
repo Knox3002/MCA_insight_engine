@@ -1,6 +1,6 @@
 # MCA Insight Engine
 
-**MCA Insight Engine** is a Python project to track changes in Ministry of Corporate Affairs (MCA) company data over time, enrich those changes with additional information, and provide a web interface + AI-powered insights.
+**MCA (Ministry of Corporate Affairs) Insight Engine** is a Python project to track changes in Ministry of Corporate Affairs (MCA) company data over time, enrich those changes with additional information, and provide a web interface + AI-powered insights.
 
 ---
 
